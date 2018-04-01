@@ -1,5 +1,9 @@
 # 2DGameFreeAssetsWebsite
 2D游戏免费素材网站收集
+收集整理中，未必全是可以免费可无限制商用的
+明显由RM素材改造的则不是无限制商用的
+
+
 
 ### ドット絵世界
 http://yms.main.jp/index.html
@@ -13,6 +17,12 @@ https://maoudamashii.jokersounds.com
 ### 王国興亡記
 https://ameblo.jp/makapri/
 - 图像
+
+### ここどこ
+http://cocodoco.chu.jp/main/link.html
+- 图像
+- 音乐
+- 音效
 
 ### MusOpen
 https://musopen.org/
