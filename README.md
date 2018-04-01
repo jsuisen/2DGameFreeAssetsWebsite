@@ -457,9 +457,10 @@ https://www.photo-ac.com
 - 写真
 
 # 已废弃
-<del>### 歯車の城</del>
+
+### 歯車の城
 <del>http://members.jcom.home.ne.jp/cogwheel/</del>
-<del>- 图像</del>
+- 图像
 
 # 不可商用素材
 
@@ -473,9 +474,11 @@ http://sc.chinaz.com/yinxiao
 # 备注说明
 
 FSM规格：即First Seed Material，日文论坛型游戏制作素材分享网站。其提供并推广了一套有别于RM二头身的三头身行走图，并被广大素材制作者所接受。类似游戏《魔女之家》中主角的行走图就是FSM规格的。
+
 RTP规格：RM自带的行走图，二头身。
 
 FSM与RTP规格：
+
 ![](https://raw.githubusercontent.com/jsuisen/2DGameFreeAssetsWebsite/master/pic/fsmAndrtp.png)
 
 
