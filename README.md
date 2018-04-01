@@ -48,6 +48,10 @@ http://mart.kitunebi.com/music.html
 - 音乐
 - 音效
 
+### 効果音ラボ
+http://soundeffect-lab.info/
+- 音效
+
 ### Celianna’s Tileset
 http://pixanna.nl/materials/celiannas-tileset
 - 图像
@@ -102,6 +106,7 @@ http://dokodai.web.fc2.com/index.html
 
 ### 音々亭
 http://soundarbour.sakura.ne.jp
+- 音乐
 - 音效
 
 ### ザ・マッチメイカァズ2nd
@@ -204,6 +209,13 @@ http://www.jewel-s.jp/download
 ### なにかしらツク～ル
 http://nanikasiratkool.web.fc2.com/menu02.html
 - 图像
+- 音效
+- 音乐
+
+### Music-Note
+http://music-note.jp/
+-音乐
+-音效
 
 ### 音楽の卵
 http://ontama-m.com/ongaku.html
@@ -257,6 +269,19 @@ http://murasato.catfood.jp/bgm.php
 ### SoundJay.com
 http://www.soundjay.com
 - 音乐
+- 音效
+
+### Sound Wich
+http://soundwich.vfxs.net/sound.html
+- 音效
+
+### DEAD END WONDER
+http://0006.x0.to/dew/sozai/index.html
+- 音乐
+- 音效
+
+### くらげ工匠
+http://www.kurage-kosho.info/index.html
 - 音效
 
 ### Ramine
@@ -376,6 +401,7 @@ http://www.sougetsu-on.net/bgm
 ### G-Sound
 http://g-miya.net/wordpress
 - 音乐
+- 音效
 
 ### DOVA-SYNDROME
 http://dova-s.jp
@@ -385,6 +411,26 @@ http://dova-s.jp
 http://peritune.com/category/music-material
 - 音乐
 
+### 音声素材屋マテリュボックス
+http://material.stksa.net/voice/
+- 语音
+
+### TAM Music Factory
+http://www.tam-music.com/index.html
+- 音乐
+- 音效
+
+### White Flute
+http://www.whiteflute.org/wfrgss/?mode=view&realmId=1&pageId=6
+- 音效
+
+### あみたろの声素材工房
+http://www14.big.or.jp/~amiami/happy/voice.html
+- 音效
+
+### WEB WAVE LIB
+http://www.s-t-t.com/wwl/db/
+- 音效
 
 ### digccMixter
 - 音乐
@@ -467,6 +513,10 @@ https://www.photo-ac.com
 ### フリー音楽素材 H/MIX GALLERY (秋山裕和)
 http://www.hmix.net
 - 音乐
+
+### フリー効果音　On-Jin ～音人～
+http://on-jin.com/
+- 音效
 
 ### 音效网
 http://sc.chinaz.com/yinxiao
